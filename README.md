@@ -12,6 +12,11 @@ IN PROGRESS
 + Handle import of spreadsheet
 
 
+TO-DO LIST
+--
++ Player.java - String ORDER 
++ Player.java - validatePosition - should assign Position base on height if false
+
 ON THE BLOCK
 -- 
 + Start Sim Engine Core
